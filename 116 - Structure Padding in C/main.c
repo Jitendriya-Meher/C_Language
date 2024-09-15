@@ -21,7 +21,7 @@ int main(){
 
     printf("%d\n",sizeof(stu1));
 
-    printf("%d\n",sizeof(stu1));
+    printf("%d\n",sizeof(stu2));
 
 
     return 0;
