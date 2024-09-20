@@ -15,6 +15,9 @@ int main(){
         printf("%d ",*q);
         q++;
     }
+    
+    // pointer addition is not possible
+    // q = p+q;
 
     return 0;
 
